@@ -1,0 +1,4 @@
+INSERT INTO tableB
+SELECT *
+FROM tableA
+WHERE ID = 1;
